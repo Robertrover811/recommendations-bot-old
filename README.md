@@ -1,2 +1,2 @@
 # recommendations-bot
-Recommendations bot recommends books, movies, and shows to you. Bot.py is The beta version (It doesn't do much) and bot2.py is still under development.
+Recommendations bot recommends books, movies, and shows to you. Currently, I am working on adding more to the lists, and working on adding recommendations from amazons top charts.
