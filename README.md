@@ -1,2 +1,4 @@
-# recommendations-bot
-Recommendations bot recommends books, movies, and shows to you. Currently, I am working on adding more to the lists, and working on adding recommendations from amazons top charts.
+# recommendations-bot (The old one)
+
+
+#h1 THIS IS THE OLD VERSION OF THE BOT- THE NEW ONE CAN BE FOUND [HERE] (https://github.com/Robertrover811/recommendations-bot)
